@@ -27,3 +27,7 @@ proguard/
 *.ipr
 *.iws
 .idea/
+
+# Ignore gradle files
+.gradle/
+build/
